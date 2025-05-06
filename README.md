@@ -85,5 +85,5 @@ Contributions are welcome! If you have suggestions for additional data points, i
 
 ##  License 
 
-Licensed under the [MIT License](LICENSE).
+Licensed under the [License](License).
 
