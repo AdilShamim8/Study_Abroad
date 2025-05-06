@@ -1,4 +1,4 @@
-# Study_Abroad Dataset & Notebook 📊📚
+# Study_Abroad Dataset & Notebook 
 
 A curated dataset and accompanying Jupyter notebook to analyze the **Cost of International Education** across major study-abroad destinations. This repository hosts:
 
