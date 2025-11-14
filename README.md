@@ -2,25 +2,27 @@
 
 A comprehensive analysis toolkit and interactive web application for exploring the **Cost of International Education** across major study-abroad destinations worldwide.
 
-## 🌟 Features
+> streamlit website: https://study-abroad.streamlit.app/
+> 
+##  Features
 
-### 📊 Interactive Streamlit Web Application
+###  Interactive Streamlit Web Application
 - **Data Exploration Dashboard**: Interactive filters, visualizations, and statistics
 - **ML-Powered Cost Prediction**: AI model predicting annual study costs
 - **User-Friendly Interface**: Intuitive controls with preset buttons and helpful tooltips
 - **Real-time Analysis**: Dynamic charts and cost breakdowns
 
-### 📓 Jupyter Notebooks
+###  Jupyter Notebooks
 - **Cost Analysis Notebook**: Comprehensive EDA with visualizations
 - **Model Training Notebook**: Machine learning pipeline for cost prediction
 
-### 📈 Dataset
+###  Dataset
 - **International_Education_Costs.csv**: Curated data on tuition, living expenses, visa fees, and more
 - **50+ countries** with detailed cost breakdowns
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Option 1: Run the Streamlit Web App (Recommended)
 
@@ -63,7 +65,7 @@ Then open:
 
 ---
 
-## 📦 Dataset Overview
+##  Dataset Overview
 
 The dataset (`International_Education_Costs.csv`) includes:
 
@@ -86,7 +88,7 @@ The dataset (`International_Education_Costs.csv`) includes:
 
 ---
 
-## 🎯 Web App Features
+##  Web App Features
 
 ### 1. Overview Section
 - Quick statistics: countries, universities, programs
@@ -104,8 +106,8 @@ The dataset (`International_Education_Costs.csv`) includes:
 
 ### 3. Model Demonstration
 - **User-Friendly Inputs**:
-  - 💰 Living Cost presets (Low/Medium/High)
-  - 🌍 Currency quick-select buttons (USD, EUR, GBP, CAD, AUD, INR)
+  -  Living Cost presets (Low/Medium/High)
+  -  Currency quick-select buttons (USD, EUR, GBP, CAD, AUD, INR)
   - Visual indicators for cost levels
   - Helpful tooltips and examples
 - **Predictions**:
@@ -121,7 +123,7 @@ The dataset (`International_Education_Costs.csv`) includes:
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 ### Model Details
 - **Algorithm**: Random Forest Regressor (best performer)
@@ -139,7 +141,7 @@ The trained model (`model.pkl`) includes:
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Web Application
 - **Streamlit**: Interactive web framework
@@ -154,7 +156,7 @@ The trained model (`model.pkl`) includes:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Study_Abroad-main/
@@ -174,7 +176,7 @@ Study_Abroad-main/
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Run tests to verify functionality:
 
@@ -191,7 +193,7 @@ Tests cover:
 
 ---
 
-## 💡 Usage Examples
+##  Usage Examples
 
 ### Example 1: USA Master's Program
 - **Country**: USA
@@ -219,7 +221,7 @@ Tests cover:
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### scikit-learn Version Mismatch
 If you see version warnings:
@@ -242,7 +244,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Key Insights from Analysis
+##  Key Insights from Analysis
 
 ### Cost Patterns
 - **Tuition vs. Living Costs**: Inverse relationship in some regions
@@ -261,7 +263,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how:
 
@@ -280,13 +282,13 @@ Contributions are welcome! Here's how:
 
 ---
 
-## 📜 License
+## License
 
 Licensed under the [License](License) file in the repository.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Adil Shamim**
 
@@ -296,7 +298,7 @@ Licensed under the [License](License) file in the repository.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - UNESCO & OECD for education statistics
 - Numbeo & Mercer for cost of living data
@@ -305,7 +307,7 @@ Licensed under the [License](License) file in the repository.
 
 ---
 
-## 📞 Support
+## Support
 
 Having issues? Please:
 1. Check the [Troubleshooting](#-troubleshooting) section
