@@ -282,9 +282,24 @@ Contributions are welcome! Here's how:
 
 ---
 
+##  Acknowledgments
+
+- UNESCO & OECD for education statistics
+- Numbeo & Mercer for cost of living data
+- scikit-learn & Streamlit communities
+- All contributors and users
+
+---
+
 ## License
 
 Licensed under the [License](License) file in the repository.
+
+---
+
+**⭐ Star this repo if you find it helpful!**
+
+Last Updated: November 2025
 
 ---
 
@@ -295,19 +310,3 @@ Licensed under the [License](License) file in the repository.
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adilshamim8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilshamim8)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adil_shamim8)
-
----
-
-##  Acknowledgments
-
-- UNESCO & OECD for education statistics
-- Numbeo & Mercer for cost of living data
-- scikit-learn & Streamlit communities
-- All contributors and users
-
----
-
-
-**⭐ Star this repo if you find it helpful!**
-
-Last Updated: November 2025
