@@ -307,15 +307,7 @@ Licensed under the [License](License) file in the repository.
 
 ---
 
-## Support
-
-Having issues? Please:
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search existing issues on GitHub
-3. Create a new issue with detailed information
-
----
 
 **⭐ Star this repo if you find it helpful!**
 
-Last Updated: November 14, 2025
+Last Updated: November 2025
